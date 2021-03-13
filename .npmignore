@@ -44,4 +44,5 @@
 /ramda-adjunct-*.*.*.tgz
 /VERSIONS.md
 .eslintrc
-
+.mocharc.js
+.husky
